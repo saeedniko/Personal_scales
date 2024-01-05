@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "Sotware\\Esp32\\personal_scales.ino",
+    "programmer": "avrisp",
+    "port": "COM4"
+}
